@@ -10,7 +10,7 @@
 | 이름      | GitHub 프로필                       
 |-----------|---------------------------------------
 | **김채현** | [chxxhn](https://github.com/chxxhn)     
-| **user2** | [user2](https://github.com/user2)   
+| **김예슬** | [yeseul-kim01](https://github.com/yeseul-kim01)   
 | **user3** | [user3](https://github.com/user3)    
 
  
