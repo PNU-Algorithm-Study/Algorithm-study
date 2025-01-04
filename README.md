@@ -20,7 +20,7 @@ algorithm-study/
 │   ├── Problem1/
 │   │   ├── README.md       
 │   │   ├── user1.py 
-│   │   ├── user2.py # 
+│   │   ├── user2.py 
 │   ├── Problem2/
 │       ├── README.md
 │       ├── user1.py
@@ -28,7 +28,7 @@ algorithm-study/
 ```
 
 ## 커밋 규칙
-- **형식**: `[플랫폼] 문제이름 by username`
+- `[플랫폼] 문제이름 by username`
   - 플랫폼: `BOJ`, `PGS` 등
     - `BOJ`: 백준 
     - `PGS`: 프로그래머스
