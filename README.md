@@ -13,6 +13,7 @@
 
  
 ## 디렉토리 구조
+```
 algorithm-study/
 ├── README.md
 ├── Week1/
@@ -24,6 +25,7 @@ algorithm-study/
 │       ├── README.md
 │       ├── user1.py
 │       ├── user2.py
+```
 
 ## 커밋 규칙
 - **형식**: `[플랫폼] 문제이름 by username`
