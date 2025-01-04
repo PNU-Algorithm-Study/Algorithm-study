@@ -7,20 +7,23 @@
 ## 참여자
 | 이름      | GitHub 프로필                       
 |-----------|---------------------------------------
-| **김채현** | [김채현](https://github.com/chxxhn)     
+| **김채현** | [chxxhn](https://github.com/chxxhn)     
 | **user2** | [user2](https://github.com/user2)   
 | **user3** | [user3](https://github.com/user3)    
 
  
 ## 디렉토리 구조
-- algorithm-study/
+algorithm-study/
 ├── README.md
 ├── Week1/
 │   ├── Problem1/
-│   │   ├── README.md
-│   │   ├── solution_user1.py
-│   │   ├── solution_user2.py
-│   └── Problem2/
+│   │   ├── README.md       
+│   │   ├── user1.py 
+│   │   ├── user2.py # 
+│   ├── Problem2/
+│       ├── README.md
+│       ├── user1.py
+│       ├── user2.py
 
 ## 커밋 규칙
 - **형식**: `[플랫폼] 문제이름 by username`
