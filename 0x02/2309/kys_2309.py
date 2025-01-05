@@ -1,5 +1,4 @@
 from itertools import combinations
-import sys
 
 l = [int(input()) for _ in range(9)]
 result = list(combinations(l,7))

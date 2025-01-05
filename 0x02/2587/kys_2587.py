@@ -5,8 +5,6 @@ for _ in range(5):
     list.append(n)
     sum += n
 list.sort()
-print(list)
 print(sum//5)
 print(list[2])
-    
     
