@@ -1,4 +1,3 @@
-import sys
 def intersection_with_duplicates(list1, list2):
     list1.sort()
     list2.sort()  
