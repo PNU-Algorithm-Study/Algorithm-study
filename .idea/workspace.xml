@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9e46083-a6f5-4be0-b916-a411d06166df" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/0x05/10773/kyj_10773.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/10828/kyj_10828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/17298/kyj_17298.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/1874/kyj_1874.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/2493/kyj_2493.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/3015/kyj_3015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/6198/6198.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/6549/kyj_6549.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x06/10845/kyj_10845.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x06/18258/kyj_18258.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x06/2164/kyj_2164.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736662904539</updated>
-      <workItem from="1736662905615" duration="21668000" />
+      <workItem from="1736662905615" duration="21996000" />
     </task>
     <servers />
   </component>
