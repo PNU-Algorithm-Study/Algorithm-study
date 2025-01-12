@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9e46083-a6f5-4be0-b916-a411d06166df" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/0x06/10845/kyj_10845.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/18258/kyj_18258.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/2164/kyj_2164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x07/1021/kyj_1021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x07/10866/kyj_10866.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,58 +32,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.10171.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2439.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6198.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_1000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_10093.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_10804.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_10807.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_10808.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_10828.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_10869.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_10871.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_11328.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_1158.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_1267.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_13300.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_1406.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_1475.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_15552.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_17298.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_1874.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_1919.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2309.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2438.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2440.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2441.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2442.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2443.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2444.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2445.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2446.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2493.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2557.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2562.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2576.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_2752.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_3015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_3273.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_5397.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kyj_9498.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/peter/Algorithm/BarkingDog&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10171.executor": "Run",
+    "Python.2439.executor": "Run",
+    "Python.6198.executor": "Run",
+    "Python.kyj_1000.executor": "Run",
+    "Python.kyj_10093.executor": "Run",
+    "Python.kyj_1021.executor": "Run",
+    "Python.kyj_10804.executor": "Run",
+    "Python.kyj_10807.executor": "Run",
+    "Python.kyj_10808.executor": "Run",
+    "Python.kyj_10828.executor": "Run",
+    "Python.kyj_10869.executor": "Run",
+    "Python.kyj_10871.executor": "Run",
+    "Python.kyj_11328.executor": "Run",
+    "Python.kyj_1158.executor": "Run",
+    "Python.kyj_1267.executor": "Run",
+    "Python.kyj_13300.executor": "Run",
+    "Python.kyj_1406.executor": "Run",
+    "Python.kyj_1475.executor": "Run",
+    "Python.kyj_15552.executor": "Run",
+    "Python.kyj_17298.executor": "Run",
+    "Python.kyj_1874.executor": "Run",
+    "Python.kyj_1919.executor": "Run",
+    "Python.kyj_2164.executor": "Run",
+    "Python.kyj_2309.executor": "Run",
+    "Python.kyj_2438.executor": "Run",
+    "Python.kyj_2440.executor": "Run",
+    "Python.kyj_2441.executor": "Run",
+    "Python.kyj_2442.executor": "Run",
+    "Python.kyj_2443.executor": "Run",
+    "Python.kyj_2444.executor": "Run",
+    "Python.kyj_2445.executor": "Run",
+    "Python.kyj_2446.executor": "Run",
+    "Python.kyj_2493.executor": "Run",
+    "Python.kyj_2557.executor": "Run",
+    "Python.kyj_2562.executor": "Run",
+    "Python.kyj_2576.executor": "Run",
+    "Python.kyj_2752.executor": "Run",
+    "Python.kyj_3015.executor": "Run",
+    "Python.kyj_3273.executor": "Run",
+    "Python.kyj_5397.executor": "Run",
+    "Python.kyj_9498.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/peter/Algorithm/BarkingDog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736662904539</updated>
-      <workItem from="1736662905615" duration="21996000" />
+      <workItem from="1736662905615" duration="22884000" />
     </task>
     <servers />
   </component>
@@ -120,6 +122,7 @@
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_1158.coverage" NAME="kyj_1158 커버리지 결과" MODIFIED="1736678404015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x04/1158" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2440.coverage" NAME="kyj_2440 커버리지 결과" MODIFIED="1736669119743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2440" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2443.coverage" NAME="kyj_2443 커버리지 결과" MODIFIED="1736669455401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2443" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_2164.coverage" NAME="kyj_2164 커버리지 결과" MODIFIED="1736690873169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x06/2164" />
     <SUITE FILE_PATH="coverage/BarkingDog$6198.coverage" NAME="6198 커버리지 결과" MODIFIED="1736687675150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/6198" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_15552.coverage" NAME="kyj_15552 커버리지 결과" MODIFIED="1736668387515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/15552" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_10871.coverage" NAME="kyj_10871 커버리지 결과" MODIFIED="1736663761649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10871" />
@@ -142,6 +145,7 @@
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_10093.coverage" NAME="kyj_10093 커버리지 결과" MODIFIED="1736667183965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10093" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_10808.coverage" NAME="kyj_10808 커버리지 결과" MODIFIED="1736670922422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/10808" />
     <SUITE FILE_PATH="coverage/BarkingDog$10171.coverage" NAME="10171 커버리지 결과" MODIFIED="1736663947983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10171" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1021.coverage" NAME="kyj_1021 커버리지 결과" MODIFIED="1736691493503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x07/1021" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2442.coverage" NAME="kyj_2442 커버리지 결과" MODIFIED="1736669353683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2442" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_10869.coverage" NAME="kyj_10869 커버리지 결과" MODIFIED="1736664291780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10869" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_10828.coverage" NAME="kyj_10828 커버리지 결과" MODIFIED="1736678842531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/10828" />
