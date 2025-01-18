@@ -1,6 +1,9 @@
 #include <iostream>
 #include <list>
+#include <vector>
 using namespace std;
+list<char> v;
+//vector<char> v;
 
 int main(void)
 {
@@ -10,7 +13,6 @@ int main(void)
     {
         string keylogger;
         cin >> keylogger;
-        list<char> v;
         auto cursor = v.begin();
         for (char c : keylogger) 
         {
