@@ -5,39 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9e46083-a6f5-4be0-b916-a411d06166df" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/0x08/10799/kyj_10799.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/2504/kyj_2504.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/3986/kyj_3986.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/4949/kyj_4949.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/9012/kyj_9012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/1012/kyj_1012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/1697/kyj_1697.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/1926/kyj_1926.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/2178/kyj_2178.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/2468/kyj_2468.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/2573/kyj_2573.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/2583/kyj_2583.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/2667/kyj_2667.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/3197/kyj_3197.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/4179/kyj_4179.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/5014/kyj_5014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/6593/kyj_6593.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/7562/kyj_7562.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/7569/kyj_7569.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/7578/kyj_7578.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09/8427/kyj_8427.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B/1074/kyj_1074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B/11729/kyj_11729.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B/14956/kyj_14956.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B/1629/kyj_1629.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B/1780/kyj_1780.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B/1992/kyj_1992.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B/2447/kyj_2447.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B/2448/kyj_2448.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B/2630/kyj_2630.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/1182/kyj_1182.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15650/kyj_15650.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15651/kyj_15651.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15652/kyj_15652.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15654/kyj_15654.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15655/kyj_15655.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15656/kyj_15656.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15657/kyj_15657.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15663/kyj_15663.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15664/kyj_15664.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/15665/kyj_15665.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/16987/kyj_16987.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/1759/kyj_1759.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/1941/kyj_1941.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C/9663/kyj_9663.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/13335/kyj_13335.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/14888/kyj_14888.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/14889/kyj_14889.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/14891/kyj_14891.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/15683/kyj_15683.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/15686/kyj_15686.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/16234/kyj_16234.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/17140/kyj_17140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/17141/kyj_17141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/17142/kyj_17142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/17406/kyj_17406.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/17471/kyj_17471.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/20055/kyj_20055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/23288/kyj_23288.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0E/10814/kyj_10814.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0E/10989/kyj_10989.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0E/11650/kyj_11650.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0E/11651/kyj_11651.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0E/11931/kyj_11931.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0E/15688/kyj_15688.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0E/2750/kyj_2750.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0E/2751/kyj_2751.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/17298/kyj_17298.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/17298/kyj_17298.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/11003/kyj_11003.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/11003/kyj_11003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,15 +84,26 @@
     "Python.kyj_11003.executor": "Run",
     "Python.kyj_11328.executor": "Run",
     "Python.kyj_1158.executor": "Run",
+    "Python.kyj_1182.executor": "Run",
     "Python.kyj_1267.executor": "Run",
     "Python.kyj_13300.executor": "Run",
     "Python.kyj_1406.executor": "Run",
     "Python.kyj_1475.executor": "Run",
     "Python.kyj_15552.executor": "Run",
+    "Python.kyj_15649.executor": "Run",
+    "Python.kyj_15650.executor": "Run",
+    "Python.kyj_15651.executor": "Run",
+    "Python.kyj_15653.executor": "Run",
+    "Python.kyj_15654.executor": "Run",
+    "Python.kyj_15655.executor": "Run",
+    "Python.kyj_15664.executor": "Run",
+    "Python.kyj_15665.executor": "Run",
     "Python.kyj_17298.executor": "Run",
+    "Python.kyj_1759.executor": "Run",
     "Python.kyj_1874.executor": "Run",
     "Python.kyj_1919.executor": "Run",
     "Python.kyj_1926.executor": "Run",
+    "Python.kyj_1941.executor": "Run",
     "Python.kyj_2164.executor": "Run",
     "Python.kyj_2309.executor": "Run",
     "Python.kyj_2438.executor": "Run",
@@ -106,7 +122,9 @@
     "Python.kyj_3015.executor": "Run",
     "Python.kyj_3273.executor": "Run",
     "Python.kyj_5397.executor": "Run",
+    "Python.kyj_6603.executor": "Run",
     "Python.kyj_9498.executor": "Run",
+    "Python.kyj_9663.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/peter/Algorithm/BarkingDog",
@@ -118,6 +136,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\peter\Algorithm\BarkingDog\0x0D\17406" />
+      <recent name="C:\Users\peter\Algorithm\BarkingDog" />
+      <recent name="C:\Users\peter\Algorithm\BarkingDog\0x0E\10814" />
+      <recent name="C:\Users\peter\Algorithm\BarkingDog\0x0C\15649" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -136,7 +162,9 @@
       <updated>1736662904539</updated>
       <workItem from="1736662905615" duration="24348000" />
       <workItem from="1736857999454" duration="888000" />
-      <workItem from="1737289031784" duration="4212000" />
+      <workItem from="1737289031784" duration="6046000" />
+      <workItem from="1738388259267" duration="12534000" />
+      <workItem from="1738479152326" duration="5415000" />
     </task>
     <servers />
   </component>
@@ -147,45 +175,58 @@
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_11328.coverage" NAME="kyj_11328 커버리지 결과" MODIFIED="1736673141414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/11328" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_5397.coverage" NAME="kyj_5397 커버리지 결과" MODIFIED="1736677754560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x04/5397" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_9498.coverage" NAME="kyj_9498 커버리지 결과" MODIFIED="1736664394864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/9498" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_3273.coverage" NAME="kyj_3273 커버리지 결과" MODIFIED="1736671893536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/3273" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_2445.coverage" NAME="kyj_2445 커버리지 결과" MODIFIED="1736669674066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2445" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1267.coverage" NAME="kyj_1267 커버리지 결과" MODIFIED="1736667945911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/1267" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1759.coverage" NAME="kyj_1759 커버리지 결과" MODIFIED="1738443734212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/1759" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2309.coverage" NAME="kyj_2309 커버리지 결과" MODIFIED="1736666599981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2309" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2446.coverage" NAME="kyj_2446 커버리지 결과" MODIFIED="1736669759384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2446" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1475.coverage" NAME="kyj_1475 커버리지 결과" MODIFIED="1736671343347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/1475" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_15665.coverage" NAME="kyj_15665 커버리지 결과" MODIFIED="1738398297081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/15665" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_1158.coverage" NAME="kyj_1158 커버리지 결과" MODIFIED="1736678404015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x04/1158" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2440.coverage" NAME="kyj_2440 커버리지 결과" MODIFIED="1736669119743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2440" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2443.coverage" NAME="kyj_2443 커버리지 결과" MODIFIED="1736669455401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2443" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_11003.coverage" NAME="kyj_11003 커버리지 결과" MODIFIED="1736858178010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x07/11003" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2164.coverage" NAME="kyj_2164 커버리지 결과" MODIFIED="1736690873169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x06/2164" />
     <SUITE FILE_PATH="coverage/BarkingDog$6198.coverage" NAME="6198 커버리지 결과" MODIFIED="1736687675150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/6198" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_15649.coverage" NAME="kyj_15649 커버리지 결과" MODIFIED="1738388863937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/15649" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_15552.coverage" NAME="kyj_15552 커버리지 결과" MODIFIED="1736668387515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/15552" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_10871.coverage" NAME="kyj_10871 커버리지 결과" MODIFIED="1736663761649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10871" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_2493.coverage" NAME="kyj_2493 커버리지 결과" MODIFIED="1736686974488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/2493" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1926.coverage" NAME="kyj_1926 커버리지 결과" MODIFIED="1737291164799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x09/1926" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_2576.coverage" NAME="kyj_2576 커버리지 결과" MODIFIED="1736665167570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2576" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_15650.coverage" NAME="kyj_15650 커버리지 결과" MODIFIED="1738391527207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/15650" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_15653.coverage" NAME="kyj_15653 커버리지 결과" MODIFIED="1738397220367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/15653" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_1919.coverage" NAME="kyj_1919 커버리지 결과" MODIFIED="1736673458750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/1919" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1406.coverage" NAME="kyj_1406 커버리지 결과" MODIFIED="1736676613876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x04/1406" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2752.coverage" NAME="kyj_2752 커버리지 결과" MODIFIED="1736664474494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2752" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2438.coverage" NAME="kyj_2438 커버리지 결과" MODIFIED="1736668452294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2438" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2562.coverage" NAME="kyj_2562 커버리지 결과" MODIFIED="1736669846734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2562" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_10807.coverage" NAME="kyj_10807 커버리지 결과" MODIFIED="1736672128692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/10807" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_13300.coverage" NAME="kyj_13300 커버리지 결과" MODIFIED="1736672477144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/13300" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_1000.coverage" NAME="kyj_1000 커버리지 결과" MODIFIED="1736663824529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/1000" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_10804.coverage" NAME="kyj_10804 커버리지 결과" MODIFIED="1736668242126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10804" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_2441.coverage" NAME="kyj_2441 커버리지 결과" MODIFIED="1736669230180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2441" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_15655.coverage" NAME="kyj_15655 커버리지 결과" MODIFIED="1738393451704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/15655" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2444.coverage" NAME="kyj_2444 커버리지 결과" MODIFIED="1736669540792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2444" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_3015.coverage" NAME="kyj_3015 커버리지 결과" MODIFIED="1736690053713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/3015" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2557.coverage" NAME="kyj_2557 커버리지 결과" MODIFIED="1736671048184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/2577" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1874.coverage" NAME="kyj_1874 커버리지 결과" MODIFIED="1736679979338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/1874" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_10093.coverage" NAME="kyj_10093 커버리지 결과" MODIFIED="1736667183965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10093" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_10808.coverage" NAME="kyj_10808 커버리지 결과" MODIFIED="1736670922422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/10808" />
     <SUITE FILE_PATH="coverage/BarkingDog$10171.coverage" NAME="10171 커버리지 결과" MODIFIED="1736663947983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10171" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_17298.coverage" NAME="kyj_17298 커버리지 결과" MODIFIED="1737291576456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/17298" />
+    <SUITE FILE_PATH="coverage/BarkingDog$2439.coverage" NAME="2439 커버리지 결과" MODIFIED="1736668692261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2439" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_15654.coverage" NAME="kyj_15654 커버리지 결과" MODIFIED="1738392188677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/15654" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_15651.coverage" NAME="kyj_15651 커버리지 결과" MODIFIED="1738391803019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/15651" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_3273.coverage" NAME="kyj_3273 커버리지 결과" MODIFIED="1736671893536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/3273" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_2445.coverage" NAME="kyj_2445 커버리지 결과" MODIFIED="1736669674066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2445" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1267.coverage" NAME="kyj_1267 커버리지 결과" MODIFIED="1736667945911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/1267" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1475.coverage" NAME="kyj_1475 커버리지 결과" MODIFIED="1736671343347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03/1475" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1941.coverage" NAME="kyj_1941 커버리지 결과" MODIFIED="1738479849205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/1941" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_10871.coverage" NAME="kyj_10871 커버리지 결과" MODIFIED="1736663761649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10871" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_2493.coverage" NAME="kyj_2493 커버리지 결과" MODIFIED="1736686974488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/2493" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1926.coverage" NAME="kyj_1926 커버리지 결과" MODIFIED="1737291164799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x09/1926" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1182.coverage" NAME="kyj_1182 커버리지 결과" MODIFIED="1738390600625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/1182" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_2576.coverage" NAME="kyj_2576 커버리지 결과" MODIFIED="1736665167570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2576" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1406.coverage" NAME="kyj_1406 커버리지 결과" MODIFIED="1736676613876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x04/1406" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_15664.coverage" NAME="kyj_15664 커버리지 결과" MODIFIED="1738398095542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/15664" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_10804.coverage" NAME="kyj_10804 커버리지 결과" MODIFIED="1736668242126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10804" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_2441.coverage" NAME="kyj_2441 커버리지 결과" MODIFIED="1736669230180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2441" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_9663.coverage" NAME="kyj_9663 커버리지 결과" MODIFIED="1738389745739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/9663" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_6603.coverage" NAME="kyj_6603 커버리지 결과" MODIFIED="1738443645696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C/6603" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_3015.coverage" NAME="kyj_3015 커버리지 결과" MODIFIED="1736690053713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/3015" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_1874.coverage" NAME="kyj_1874 커버리지 결과" MODIFIED="1736679979338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/1874" />
+    <SUITE FILE_PATH="coverage/BarkingDog$kyj_10093.coverage" NAME="kyj_10093 커버리지 결과" MODIFIED="1736667183965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10093" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_1021.coverage" NAME="kyj_1021 커버리지 결과" MODIFIED="1736691853368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x07/1021" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_2442.coverage" NAME="kyj_2442 커버리지 결과" MODIFIED="1736669353683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2442" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_10869.coverage" NAME="kyj_10869 커버리지 결과" MODIFIED="1736664291780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/10869" />
     <SUITE FILE_PATH="coverage/BarkingDog$kyj_10828.coverage" NAME="kyj_10828 커버리지 결과" MODIFIED="1736678842531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/10828" />
-    <SUITE FILE_PATH="coverage/BarkingDog$kyj_17298.coverage" NAME="kyj_17298 커버리지 결과" MODIFIED="1737291576456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05/17298" />
-    <SUITE FILE_PATH="coverage/BarkingDog$2439.coverage" NAME="2439 커버리지 결과" MODIFIED="1736668692261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02/2439" />
   </component>
 </project>
