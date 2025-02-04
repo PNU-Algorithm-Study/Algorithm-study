@@ -1,23 +1,26 @@
 #include <iostream>
+#include <stack>
 using namespace std;
-int ans;
 
-int main(void) {
-	int n; 
-    cin >> n;
-	while (n--) {
-		stack<int> stk;
-		string s; cin >> s;
-		for (int i = 0; i < s.size(); i++) {
-			if (stk.empty())
-				stk.push(s[i]);
-			else if (stk.top() == s[i])
-				stk.pop();
+int main(void) 
+{
+	int n, result = 0;
+	cin >> n;
+	while(n--)
+	{
+		stack<char> s;
+		string input;
+		cin >> input;
+		for(int i = 0; i < input.size(); i++)
+		{
+			if(s.empty()) s.push(input[i]);
 			else
-				stk.push(s[i]);
+			{
+				if(s.top() == input[i]) s.pop();
+				else s.push(input[i]);
+			}
 		}
-		if (stk.empty())
-			ans++;
+		if(s.empty()) result++;
 	}
-	cout << ans;
+	cout << result;
 }

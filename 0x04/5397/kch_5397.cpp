@@ -1,9 +1,7 @@
 #include <iostream>
 #include <list>
-#include <vector>
 using namespace std;
 list<char> v;
-//vector<char> v;
 
 int main(void)
 {
