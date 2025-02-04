@@ -5,32 +5,28 @@ using namespace std;
 
 int main(void)
 {
-	int i,j;
-	int t;
-	cin >> t;
-	for (i = 0; i < t; i++)
-	{
-		string vps;
-		stack<char>ps;
-		cin >> vps;
-        
-		for (j = 0; j < vps.size(); j++)	
-		{
-			if (vps.at(j) == '(')
-				ps.push('(');
-			else
-			{
-				if (ps.empty())		
-					break;
-				ps.pop();
-			}
-		}
-        
-		if (j == vps.size()&&ps.empty())		//	문자열의 검사가 정상적으로 이루어지고 스택도 비어있을 때
-			cout << "YES\n";
-		else
-			cout << "NO\n";
-            
-	}
-	return 0;
+	int n;
+    cin >> n;
+    while(n--)
+    {
+        stack<char> s;
+        string input;
+        bool err = false;
+        cin >> input;
+        for(int i = 0; i < input.size(); i++)
+        {
+            if(input[i] == '(') s.push(input[i]);
+            else
+            {
+                if(!s.empty() && s.top() == '(') s.pop();
+                else
+                {
+                    err = true;
+                    break;
+                }
+            }
+        }
+        if(s.empty() && err == false) cout << "YES" << endl;
+        else cout << "NO" << endl;
+    }
 }

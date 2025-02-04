@@ -5,47 +5,45 @@ deque<int> dq;
 
 int main() 
 {
-  int idx, res = 0, n, m, x;
-  cin >> n >> m;
-  for(int i = 1; i <= n; i++) dq.push_back(i);
-  while(m--) {
-    cin >> x;
-    for(int i = 0; i < dq.size(); i++) 
+    int n, m, result = 0;
+    cin >> n >> m;
+    for(int i = 1; i <= n; i++) dq.push_back(i);
+    while(m--)
     {
-      if(dq[i] == x) 
-      {
-        idx = i;
-        break;
-      }
-    }
-    if(idx <= dq.size() / 2) 
-    {
-      while(1) 
-      {
-        if(dq.front() == x) 
+        int input, index = 0;
+        cin >> input;
+        for(int i = 0; i < dq.size(); i++)
         {
-          dq.pop_front();
-          break;
+            if(dq[i] == input) index = i;
         }
-        ++res;
-        dq.push_back(dq.front());
-        dq.pop_front();
-      }
-    } 
-    else 
-    { 
-      while(1) 
-      {
-        if(dq.front() == x) 
+        if(index <= dq.size() / 2)
         {
-          dq.pop_front();
-          break;
+            while(1)
+            {
+                if(dq.front() == input)
+                {
+                    dq.pop_front();
+                    break;
+                }
+                dq.push_back(dq.front());
+                dq.pop_front();
+                result++;
+            }
         }
-        ++res;
-        dq.push_front(dq.back());
-        dq.pop_back();
-      }
+        else
+        {
+            while(1)
+            {
+                if(dq.front() == input)
+                {
+                    dq.pop_front();
+                    break;
+                }
+                dq.push_front(dq.back());
+                dq.pop_back();
+                result++;
+            }
+        }
     }
-  }
-  cout << res;
+    cout << result;
 }

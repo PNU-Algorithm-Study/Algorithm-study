@@ -7,13 +7,13 @@ vector<char> vec;
 
 int main(void)
 {
-    int num, max = 0, n = 1;
+    int num, n = 1;
     cin >> num;
     for(int i = 0; i < num; i++)
     {
         int input;
         cin >> input;
-        while(n > max && n <= input)
+        while(n <= input)
         {
             st.push(n);
             n++;
@@ -29,7 +29,6 @@ int main(void)
             cout << "NO";
             return 0;
         }
-        if(input >= max) max = input;
     }
     for(int i = 0; i < vec.size(); i++) cout << vec[i] << "\n";
 }

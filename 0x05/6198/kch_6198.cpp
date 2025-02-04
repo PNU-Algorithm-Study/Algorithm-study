@@ -2,35 +2,24 @@
 #include <stack>
 using namespace std;
 stack<int> s;
-stack<pair<int, int> > building;
 
 int main() 
 {
-    int num, h, height;
-    cin >> num;
-    for (int i = 0; i < num; i++) 
+    int n;
+    long long result = 0;
+    cin >> n;
+    while(n--)
     {
-        cin >> h;
-        s.push(h);
-    }
-    int count, total = 0;
-    while (!s.empty()) 
-    {
-        height = s.top();
-        s.pop();
-        count = 0;
-        while (!building.empty()) 
+        int input;
+        cin >> input;
+        if(s.empty())
         {
-            if (height > building.top().first) 
-            {
-                count += building.top().second;
-                count++;
-                building.pop();
-            }
-            else break;
+            s.push(input);
+            continue;
         }
-        building.push(make_pair(height, count));
-        total += count;
+        while(!s.empty() && s.top() <= input) s.pop();
+        result += s.size();
+        s.push(input);
     }
-    cout << total;
+    cout << result;
 }
