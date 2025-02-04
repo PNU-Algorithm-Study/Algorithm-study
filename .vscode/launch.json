@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chaehyun/Desktop/Algorithm-Study/Algorithm-study/0x0C/18809",
+      "program": "/Users/chaehyun/Desktop/Algorithm-Study/Algorithm-study/0x0C/18809/build/Debug/outDebug"
+    }
+  ]
+}
