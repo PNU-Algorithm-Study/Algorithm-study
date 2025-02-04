@@ -1,80 +1,63 @@
 #include<iostream>
 #include<stack>
 using namespace std;
-
-string str;
 stack<char> s;
-int ans;
 
 int main()
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-
-	cin >> str;
-	int tmp = 1;
-	char pre = ' ';
-	for (int i = 0; i < str.size(); i++)
+	string input;
+	int result = 0, tmp = 1;
+	cin >> input;
+	for(int i = 0; i < input.size(); i++)
 	{
-		if (str[i] == '(' || str[i] == '[')
+		char c = input[i];
+		if(c == '(') 
 		{
-			s.push(str[i]);
-			if (str[i] == '(')
-				tmp *= 2;
+			s.push(c);
+			tmp *= 2;
+		}
+		else if(c == '[') 
+		{
+			s.push(c);
+			tmp *= 3;
+		}
+		else if(c == ')')
+		{
+			if(s.empty() || s.top() != '(')
+			{
+				result = 0;
+				break;
+			}
 			else
-				tmp *= 3;
+			{
+				s.pop();
+				if(input[i - 1] == '(')
+				{
+					result += tmp;
+					tmp /= 2;
+				}
+				else tmp /= 2;
+			}
 		}
 		else
 		{
-			if (str[i] == ')')
+			if(s.empty() || s.top() != '[')
 			{
-				if (s.empty()) {
-					ans = 0;
-					break;
-				}
-				if (s.top()=='[') {
-					ans = 0;
-					break;
-				}
-				s.pop();
-
-				if (pre == '(')	//ans에 값을 더해야 한다
-				{
-					ans += tmp;
-					tmp /= 2;
-				}
-				else
-					//이미 값이 더해져 있음
-				{
-					tmp /= 2;
-				}
+				result = 0;
+				break;
 			}
 			else
 			{
-				if (s.empty()) {
-					ans = 0;
-					break;
-				}
-				if (s.top() == '(') {
-					ans = 0;
-					break;
-				}
 				s.pop();
-
-				if (pre == '[')
+				if(input[i - 1] == '[')
 				{
-					ans += tmp;
+					result += tmp;
 					tmp /= 3;
 				}
-				else
-					tmp /= 3;
+				else tmp /= 3;
 			}
 		}
-		pre = str[i];
 	}
-
-	if (!s.empty())
-		ans = 0;
-
-	cout << ans;
+	if(!s.empty()) result = 0;
+	cout << result;
 }

@@ -1,35 +1,29 @@
 #include <iostream>
+#include <stack>
 using namespace std;
+stack<char> s;
 
-char str[100000 + 10];
-
-void InputData(){
-	cin >> str;
-}
-
-int countnum(){
-    int open=0;
-    int count=0;
-    for(int i = 0; str[i]!= '\0'; i++){
-        //레이저인지 검사
-        if(str[i]=='(' and str[i+1]==')'){
-            count=count+open;
-            i++;
-        } else if (str[i]=='('){
-            open++;
-        } else if (str[i]==')'){
-            count++;
-            open--;
+int main() 
+{
+    string input;
+    int result = 0;
+    cin >> input;
+    for(int i = 0; i < input.size(); i++)
+    {
+        if(input[i] == '(') s.push(input[i]);
+        else
+        {
+            if(input[i - 1] == '(') 
+            {
+                s.pop();
+                result += s.size();
+            }
+            else 
+            {
+                s.pop();
+                result++;
+            }
         }
     }
-    return count;
-}
-
-int main() {
-	int ans;
-	InputData();
-	ans = countnum();
-	
-	cout << ans << endl;
-	return 0;
+    cout << result;
 }

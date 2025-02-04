@@ -1,28 +1,20 @@
 #include <iostream>
 #include <stack>
 using namespace std;
-stack<int> st;
+stack<int> s;
+int arr[1000001], result[1000001];
 
 int main()
 {
-    int N;
-    cin >> N;
-    int arr[1000001];
-    int answer[1000001];
-    for (int i = 0; i < N; i++) cin >> arr[i];
-    for (int i = 0; i < N; i++)
+    int n;
+    cin >> n;
+    for(int i = 0; i < n; i++) cin >> arr[i];
+    for(int i = n - 1; i >= 0 ; i--)
     {
-        while (!st.empty() && arr[st.top()] < arr[i])
-        {
-            answer[st.top()] = arr[i];
-            st.pop();
-        }
-        st.push(i);
+        while(!s.empty() && s.top() <= arr[i]) s.pop();
+        if(s.empty()) result[i] = -1;
+        else result[i] = s.top();
+        s.push(arr[i]);
     }
-    while (!st.empty())
-    {
-        answer[st.top()] = -1;
-        st.pop();
-    }
-    for (int i = 0; i < N; i++) cout << answer[i] << " ";
+    for(int i = 0; i < n; i++) cout << result[i] << " ";
 }

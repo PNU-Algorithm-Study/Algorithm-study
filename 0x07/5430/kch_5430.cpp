@@ -1,61 +1,59 @@
 #include <iostream>
 #include <deque>
-#include <string>
 #include <algorithm>
 using namespace std;
-deque<int> d;
-string ACS, arrString;
 
 int main()
 {
-    int testCase, arrCount;
-	cin >> testCase;
-	for (int t = 0; t < testCase; t++) {
-		d.clear();
-		cin >> ACS >> arrCount >> arrString;
-		int num = 0;
-		for (int i = 0; i < arrString.size(); i++) 
-        {		
-			if (arrString[i] == '[' || arrString[i] == ']') continue;
-			if (arrString[i] == ',') 
-            {
-				d.push_back(num);
-				num = 0;
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL); cout.tie(NULL);
+
+    int t, n;
+	string p, arr;
+	cin >> t;
+	while(t--)
+	{
+		bool err = false, rev = true;
+		deque<int> d;
+		cin >> p >> n >> arr;
+		string tmp = "";
+		for(int i = 1; i < arr.size(); i++)
+		{
+			if((arr[i] == ',' || arr[i] == ']') && tmp != "")
+			{
+				d.push_back(stoi(tmp));
+				tmp = "";
 			}
-			else num = num * 10 + arrString[i] - '0';
+			else tmp += arr[i];
 		}
-		if (num != 0) d.push_back(num);
-		bool isError = false, isReverse = false;
-		for (int i = 0; i < ACS.size(); i++) 
-        {
-			if (ACS[i] == 'R') 
-            {
-				if (isReverse) isReverse = false;
-				else isReverse = true;
-			}
-			else if(ACS[i] == 'D') 
-            {		
-				if (d.empty()) 
-                {
-					isError = true;
+		for(int i = 0; i < p.size(); i++)
+		{
+			if(p[i] == 'R') rev = !rev;
+			else
+			{
+				if(d.empty()) 
+				{
+					cout << "error" << '\n';
+					err = true;
 					break;
 				}
-				if (isReverse) d.pop_back();
-				else d.pop_front();
+				else
+				{
+					if(rev) d.pop_front();
+					else d.pop_back();
+				}
 			}
 		}
-		if (isReverse && !isError) reverse(d.begin(), d.end());
-		if (isError) cout << "error";
-		else 
-        {
-			cout << "[";
-			for (int i = 0; i < d.size(); i++) 
-            {				
-				if (i == d.size() - 1) cout << d[i];
+		if(err == false)
+		{
+			if(!rev) reverse(d.begin(), d.end());
+			cout << '[';
+			for(int i = 0; i < d.size(); i++) 
+			{
+				if(i == d.size() - 1) cout << d[i];
 				else cout << d[i] << ",";
 			}
-			cout << "]";
+			cout << ']' << '\n';
 		}
-		cout << "\n";
 	}
 }
