@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/chaehyun/Desktop/Algorithm-Study/Algorithm-study/0x0C/18809",
-      "program": "/Users/chaehyun/Desktop/Algorithm-Study/Algorithm-study/0x0C/18809/build/Debug/outDebug"
+      "cwd": "/Users/chaehyun/Desktop/Algorithm-Study/Algorithm-study/0x0D",
+      "program": "/Users/chaehyun/Desktop/Algorithm-Study/Algorithm-study/0x0D/build/Debug/outDebug"
     }
   ]
 }
