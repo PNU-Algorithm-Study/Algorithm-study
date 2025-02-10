@@ -5,44 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9e46083-a6f5-4be0-b916-a411d06166df" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/0x0C/1182/kyj_1182.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15650/kyj_15650.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15651/kyj_15651.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15652/kyj_15652.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15654/kyj_15654.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15655/kyj_15655.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15656/kyj_15656.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15657/kyj_15657.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15663/kyj_15663.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15664/kyj_15664.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/15665/kyj_15665.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/16987/kyj_16987.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/1759/kyj_1759.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/1941/kyj_1941.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C/9663/kyj_9663.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/13335/kyj_13335.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/14888/kyj_14888.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/14889/kyj_14889.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/14891/kyj_14891.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/15683/kyj_15683.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/15686/kyj_15686.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/16234/kyj_16234.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/17140/kyj_17140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/17141/kyj_17141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/17142/kyj_17142.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/17406/kyj_17406.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/17471/kyj_17471.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/20055/kyj_20055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0D/23288/kyj_23288.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0E/10814/kyj_10814.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0E/10989/kyj_10989.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0E/11650/kyj_11650.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0E/11651/kyj_11651.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0E/11931/kyj_11931.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0E/15688/kyj_15688.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0E/2750/kyj_2750.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0E/2751/kyj_2751.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/11559/kyj_11559.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/12100/kyj_12100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/14500/kyj_14500.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/14502/kyj_14502.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/14503/kyj_14503.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/14890/kyj_14890.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/15684/kyj_15684.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/15685/kyj_15685.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/16235/kyj_16235.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/16236/kyj_16236.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/17135/kyj_17135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/17144/kyj_17144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/19236/kyj_19236.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/21608/kyj_21608.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D/3190/kyj_3190.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D/15683/kyj_15683.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D/15683/kyj_15683.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +105,7 @@
     "Python.kyj_9498.executor": "Run",
     "Python.kyj_9663.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "kyj",
     "last_opened_file_path": "C:/Users/peter/Algorithm/BarkingDog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -138,6 +117,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\peter\Algorithm\BarkingDog\0x0D\3190" />
       <recent name="C:\Users\peter\Algorithm\BarkingDog\0x0D\17406" />
       <recent name="C:\Users\peter\Algorithm\BarkingDog" />
       <recent name="C:\Users\peter\Algorithm\BarkingDog\0x0E\10814" />
@@ -164,7 +144,10 @@
       <workItem from="1736857999454" duration="888000" />
       <workItem from="1737289031784" duration="6046000" />
       <workItem from="1738388259267" duration="12534000" />
-      <workItem from="1738479152326" duration="5415000" />
+      <workItem from="1738479152326" duration="6330000" />
+      <workItem from="1738658809280" duration="101000" />
+      <workItem from="1738737722798" duration="9000" />
+      <workItem from="1739183307227" duration="1284000" />
     </task>
     <servers />
   </component>
